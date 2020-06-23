@@ -12,5 +12,7 @@ sudo pip install <br>
 `sudo pip install scrapy`
 <br>
 `scrapy startproject <project_name>`
-
+<br>
+`cd <project_name>`
+<br>
 Now, you're all set. Just write `scrapy crawl <project_name>` to start your project. <br>
